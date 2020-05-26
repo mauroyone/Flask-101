@@ -8,3 +8,7 @@ There are basic concepts such as APIs, requet types, error handling, testing, au
 An introduction to Bootstrap to make the site more beatiful.
 
 There are a lot of dependencies that can be founf on the "dependencies.txt" file.
+
+The db was not included for obvious reasons. To recreate it use:
+  flask-sqlalchemy
+  flask-migrate
