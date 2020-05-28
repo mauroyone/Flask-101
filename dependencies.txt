@@ -6,5 +6,9 @@ flask-login
 flask-bootstrap
 flask-mail
 flask-moment
+flask-babel
 email-validator
 jwt
+requests
+guess_language_spirit
+elasticsearch
